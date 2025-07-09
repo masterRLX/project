@@ -2,3 +2,4 @@
 - 오늘도 좋은 하루 🎁
 
 ## sourcetree 사용하기
+-GUI로 add, commit, push, pull 하기
